@@ -1,0 +1,30 @@
+[33mcommit b5016c51d5ef66f3d12b9d99f6c219c5140f2689[m
+Author: Jurgens Smit <contact@jurgenssmit.com>
+Date:   Tue Apr 16 14:00:45 2013 +1000
+
+    Added custom routes
+
+[33mcommit 61d1dae00b462b7271d99f4710dbed94f59123e4[m
+Author: Jurgens Smit <contact@jurgenssmit.com>
+Date:   Tue Apr 16 13:37:14 2013 +1000
+
+    Styled the flash messages
+
+[33mcommit 41eca5d85508f32dd1a297d2cafc31df9794a91b[m
+Author: Jurgens Smit <contact@jurgenssmit.com>
+Date:   Mon Apr 15 17:28:35 2013 +1000
+
+    Updated frontend for the new auth system
+    
+    Added simple_form
+    Updated several forms to bootstrap/simple_form
+    Added login/logout/register/profile links to our nav
+    Added a collection select to our status form
+    
+    :wq
+
+[33mcommit 417d2c4a1a6d6bbc0954dbbeeba7fc3021d3df1c[m
+Author: Jurgens Smit <contact@jurgenssmit.com>
+Date:   Mon Apr 15 12:53:01 2013 +1000
+
+    install device views
