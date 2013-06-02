@@ -1,3 +1,3 @@
-Demo Facebook clone.
+Facebook clone.
 
 http://smitbook.herokuapp.com/
